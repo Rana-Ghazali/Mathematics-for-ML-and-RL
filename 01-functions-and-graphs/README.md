@@ -74,7 +74,9 @@ Output:
 ```text
 f(3) = 7
 ```
+## Interactive Python Example
 
+[Open the Jupyter Notebook](functions_and_graphs.ipynb)
 ## 5. Applications in Machine Learning and Reinforcement Learning
 
 Functions are fundamental to machine learning:
