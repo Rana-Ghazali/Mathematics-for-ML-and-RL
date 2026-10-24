@@ -165,14 +165,15 @@ This lesson is part of a broader mathematical learning path for Machine Learning
 **Recommended sequence:**
 
 1. Vectors and Vector Operations
-2. Dot Product and Cross Product
-3. Euclidean and Manhattan Distance
+2. Euclidean and Manhattan Distance
+3. Dot Product and Cross Product
 4. Matrix Operations
 5. Systems of Linear Equations
 6. Orthogonality and Projection
-7. Eigenvalues, Eigenvectors, and SVD
-8. Cosine Similarity and Jaccard Similarity
-9. Principal Component Analysis (PCA)
+7. Eigenvalues and Eigenvectors
+8. Singular Value Decomposition (SVD)
+9. Cosine Similarity and Jaccard Similarity
+10. Principal Component Analysis (PCA)
 
 ## 📌 Key Takeaway
 
