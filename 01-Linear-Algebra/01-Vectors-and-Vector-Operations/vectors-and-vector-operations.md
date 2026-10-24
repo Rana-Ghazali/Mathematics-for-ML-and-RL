@@ -340,13 +340,13 @@ A basis is a set of linearly independent vectors that can represent every vector
 
 The standard basis vectors in two-dimensional space are:
 
-e₁ = [1, 0]
+i = [1, 0]
 
-e₂ = [0, 1]
+j = [0, 1]
 
 For example, the vector [3, 5] can be expressed as:
 
-**[3, 5] = 3e₁ + 5e₂**
+**[3, 5] = 3i + 5j**
 
 The span of a set of vectors is the collection of all possible linear combinations of those vectors.
 
