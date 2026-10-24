@@ -368,7 +368,7 @@ The two measures describe distance differently.
 |---|---|---|
 | Alternative name | L2 distance | L1 distance |
 | Geometric interpretation | Straight-line distance | Sum of coordinate-wise movements |
-| Formula | `√(Σ(aᵢ - bᵢ)²)` | Σᵢ₌₁ⁿ |aᵢ - bᵢ| |
+| Formula | `√(Σ(aᵢ - bᵢ)²)` | Σᵢ₌₁ⁿ (|aᵢ - bᵢ|) |
 | Uses squared differences | Yes | No |
 | Uses absolute differences | Not directly | Yes |
 | Takes a square root | Yes | No |
