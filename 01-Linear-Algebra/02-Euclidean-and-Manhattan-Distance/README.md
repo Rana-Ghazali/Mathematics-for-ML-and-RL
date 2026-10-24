@@ -141,7 +141,7 @@ Understanding distance metrics helps build a foundation for studying similarity 
 
 ## 📖 Complete Lesson
 
-**[Read the complete lesson: Euclidean and Manhattan Distance](02-euclidean-and-manhattan-distance.md)**
+**[Read the complete lesson: Euclidean and Manhattan Distance](euclidean-and-manhattan-distance.md)**
 
 The full lesson includes mathematical explanations, worked examples, Python implementations, ML/RL applications, exercises, and a mini project.
 
