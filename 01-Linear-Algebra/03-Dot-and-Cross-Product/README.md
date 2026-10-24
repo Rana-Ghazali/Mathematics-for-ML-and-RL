@@ -186,7 +186,7 @@ A solid understanding of these operations makes it easier to study matrix operat
 
 ## 📖 Complete Lesson
 
-[**Read the complete lesson: Dot Product and Cross Product**](dot-and-cross-product.md))
+[**Read the complete lesson: Dot Product and Cross Product**](dot-and-cross-product.md)
 
 The full lesson includes mathematical explanations, geometric interpretations, worked examples, Python implementations, ML/RL applications, exercises, and a mini project.
 
