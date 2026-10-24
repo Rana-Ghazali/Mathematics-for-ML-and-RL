@@ -183,6 +183,6 @@ Euclidean and Manhattan distance are fundamental tools for quantifying differenc
 
 **Previous lesson:** Vectors and Vector Operations
 
-**Next lesson:** Matrix Operations
+**Next lesson:** Dot and Cross Product
 
 **Course:** Mathematical Foundations for Machine Learning and Reinforcement Learning
