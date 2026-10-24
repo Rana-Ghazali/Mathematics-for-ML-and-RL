@@ -157,7 +157,7 @@ A solid understanding of vector operations makes it easier to study matrices, de
 
 ## 📖 Complete Lesson
 
-**[Read the complete lesson: Vectors and Vector Operations](01-vectors-and-vector-operations.md)**
+**[Read the complete lesson: Vectors and Vector Operations](vectors-and-vector-operations.md)**
 
 The full lesson includes mathematical explanations, worked examples, Python implementations, ML/RL applications, exercises, and a mini project.
 
