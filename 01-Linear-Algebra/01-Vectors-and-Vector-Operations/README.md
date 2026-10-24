@@ -196,6 +196,6 @@ Vectors provide a common mathematical language for representing data, model para
 
 ---
 
-**Next lesson:** Euclidean nd Manhattan Distance
+**Next lesson:** Euclidean and Manhattan Distance
 
 **Course:** Mathematical Foundations for Machine Learning and Reinforcement Learning
