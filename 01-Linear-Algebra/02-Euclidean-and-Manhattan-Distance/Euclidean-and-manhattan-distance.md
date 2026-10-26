@@ -1285,4 +1285,4 @@ This lesson is part of a learning series on **Mathematics for Machine Learning a
 
 The series connects mathematical concepts with Python implementations and practical applications in machine learning, reinforcement learning, and intelligent systems.
 
-**Next lesson suggestion:** Vector Norms and Similarity Measures: L1, L2, and Cosine Similarity.
+**Next lesson suggestion:** Dot and Cross Product.
