@@ -1940,4 +1940,4 @@ This lesson is part of the **Mathematics for Machine Learning and Reinforcement 
 
 The objective is to connect mathematical foundations with Python implementations and practical applications in Machine Learning, Reinforcement Learning, and intelligent systems.
 
-**Suggested next lesson:** Eigenvalues, Eigenvectors, and Singular Value Decomposition (SVD).
+**Suggested next lesson:** System of Linear Equations.
