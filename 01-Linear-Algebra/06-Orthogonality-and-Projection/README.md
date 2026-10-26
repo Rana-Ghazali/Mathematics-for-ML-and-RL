@@ -97,7 +97,7 @@ These concepts are also useful in Reinforcement Learning:
 
 Read the complete lesson, including mathematical explanations, worked examples, Python implementations, and exercises:
 
-[**Orthogonality and Projection — Complete Lesson**](orthogonality-and-projection.md)
+[**Orthogonality and Projection — Complete Lesson**](Orthogonality-and-Projection.md)
 
 
 ## 🧪 Practice
