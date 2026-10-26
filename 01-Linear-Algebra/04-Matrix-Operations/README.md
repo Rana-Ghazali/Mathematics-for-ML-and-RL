@@ -249,11 +249,11 @@ Understanding these operations makes it easier to study linear regression, neura
 
 ## 📖 Complete Lesson
 
-**Read the complete lesson: [Matrix Operations for Machine Learning and Reinforcement Learning](matrix-operations.md)**
+[**Read the complete lesson: Matrix-Operations**](Matrix-operations.md)
 
 The full lesson includes mathematical explanations, step-by-step examples, Python implementations, ML/RL applications, exercises, and solutions.
 
-*Note: Make sure `matrix-operations.md` matches the actual filename of your lesson in this GitHub folder. If you use a different filename, update the link accordingly.*
+
 
 ## 🧪 Practice and Mini Project
 
