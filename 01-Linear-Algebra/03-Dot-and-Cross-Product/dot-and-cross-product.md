@@ -1905,22 +1905,6 @@ These topics form a natural mathematical progression toward machine learning and
 
 ---
 
-# 47. Quick Reference
-
-| Concept | Formula | Output |
-|---|---|---|
-| Vector magnitude | `sqrt(a1^2 + ... + an^2)` | Scalar |
-| Dot product | `sum(ai * bi)` | Scalar |
-| Angle | `arccos(dot(a,b) / (|a|*|b|))` | Scalar |
-| Cosine similarity | `dot(a,b) / (|a|*|b|)` | Scalar |
-| Scalar projection of a onto b | `dot(a,b) / |b|` | Scalar |
-| Vector projection of a onto b | `(dot(a,b) / |b|^2) * b` | Vector |
-| Cross product | `a cross b` | Vector |
-| Cross-product magnitude | `|a|*|b|*sin(theta)` | Scalar |
-| Parallelogram area | `|a cross b|` | Scalar |
-| Triangle area | `0.5 * |a cross b|` | Scalar |
-
----
 
 ## Final Takeaway
 
