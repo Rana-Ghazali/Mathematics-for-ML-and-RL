@@ -1,6 +1,8 @@
 # Mathematics for Machine Learning and Reinforcement Learning
 
-**A Practical and Research-Oriented Guide to the Mathematical Foundations of ML and RL**
+A structured educational resource by Rana Ghazali covering linear algebra, probability, statistics, and calculus, with practical examples and applications in machine learning and reinforcement learning.
+
+A Practical and Research-Oriented Guide to the Mathematical Foundations of ML and RL
 
 Welcome to **Mathematics for Machine Learning and Reinforcement Learning**, an open educational project designed to build a strong mathematical foundation for understanding, implementing, and researching modern intelligent systems.
 
