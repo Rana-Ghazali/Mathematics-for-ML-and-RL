@@ -119,13 +119,11 @@ After completing the lesson, try these exercises:
 
 This lesson is part of the **Mathematical Foundations for Machine Learning and Reinforcement Learning** series.
 
-**Previous topics:**
-- Vectors and Vector Operations
-- Matrix Operations
+**Previous Lesson:**
 - Systems of Linear Equations
 
 **Next lesson:**
-- Eigenvalues, Eigenvectors, and Singular Value Decomposition (SVD)
+- Eigenvalues and Eigenvectors
 
 
 ---
